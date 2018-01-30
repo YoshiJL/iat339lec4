@@ -1,0 +1,3 @@
+# Exclude jpegs and jpgs
+*.jpeg
+*.jpg
